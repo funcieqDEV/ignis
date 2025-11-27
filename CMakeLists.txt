@@ -7,4 +7,6 @@ add_executable(Ignis main.cpp
         frontend/lexer/lexer.h
         frontend/token/token.h
         frontend/lexer/lexer.cpp
-        utils/utils.h)
+        utils/utils.h
+        frontend/parser/parser.h
+        frontend/ast/node.h)
